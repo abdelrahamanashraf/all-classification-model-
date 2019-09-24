@@ -5,11 +5,11 @@
 
 Models: 
 Logistic Regression
-K-Nearest Neighbors
-Decision Tree Classification
-Naive Bayes
-Support Vector Machines
- Random Forest Classification
+,K-Nearest Neighbors
+,Decision Tree Classification
+,Naive Bayes
+,Support Vector Machines
+ ,Random Forest Classification
  
  
  
